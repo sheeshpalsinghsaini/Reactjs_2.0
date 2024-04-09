@@ -1,0 +1,31 @@
+{
+  "name": "ep_02",
+  "version": "1.0.0",
+  "description": "How to create Reactjs project from basic",
+  "main": "notes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheeshpalsinghsaini/Reactjs_2.0.git"
+  },
+  "author": "Sheeshpal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheeshpalsinghsaini/Reactjs_2.0/issues"
+  },
+  "homepage": "https://github.com/sheeshpalsinghsaini/Reactjs_2.0#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
